@@ -1,6 +1,6 @@
 # Hi, I'm Meika 😸
 
-## 🌱 I’m currently learning Full Stack web development @ Coder Academy, Sydney
+#### 🌱 A designer and a junior dev, I’m currently learning Full Stack web development @ Coder Academy, Sydney
 
 ### 📫   How to reach me:
 #### 📩   [email](meikafreckelton@gmail.com)
