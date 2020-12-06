@@ -1,6 +1,7 @@
 # Hi, I'm Meika 😸
 
-#### 🌱  &nbsp; &nbsp; A designer and a junior dev, currently learning full stack web development @ Coder Academy, Sydney
+#### 🌱  &nbsp; &nbsp; A designer and a junior dev, currently learning the MERN stack @ Coder Academy 
+#### 💻  &nbsp; &nbsp; [current project](https://github.com/MeikaFreckelton/MERNAPP)
 #### 🖼  &nbsp; &nbsp; [portfolio](https://meikafreckelton.github.io)
 
 ### 📫 &nbsp; &nbsp; How to reach me:
