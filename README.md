@@ -1,6 +1,6 @@
 # Hi, I'm Meika 😸
 
-#### 🌱  &nbsp; &nbsp; A designer and a junior dev, currently learning the MERN stack @ Coder Academy 
+#### 🌱  &nbsp; &nbsp; A junior dev, currently learning the MERN stack @ Coder Academy 
 #### 💻  &nbsp; &nbsp; [current project (a MERN app)](https://github.com/MeikaFreckelton/MERNAPP)
 #### 🖼  &nbsp; &nbsp; [portfolio](https://meikafreckelton.github.io)
 
