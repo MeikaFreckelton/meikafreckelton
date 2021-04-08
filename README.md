@@ -1,7 +1,8 @@
 # Hi, I'm Meika 😸
 
-#### 🌱  &nbsp; &nbsp; A junior dev, currently learning the MERN stack @ Coder Academy 
+#### 🌱  &nbsp; &nbsp; A junior dev/designer looking to gain some experience in the tech industry and use my skills to make a difference
 #### 💻  &nbsp; &nbsp; [Most recent project (MERN Stack App)](https://github.com/MeikaFreckelton/MERNAPP)
+#### 💻  &nbsp; &nbsp; [Current side project (MERN Stack App)](https://github.com/MeikaFreckelton/MERNAPP)
 #### 🖼  &nbsp; &nbsp; [My New Portfolio!](https://meikafreckelton.online)
 
 ### 📫 &nbsp; &nbsp; How to reach me:
