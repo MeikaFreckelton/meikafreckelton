@@ -1,6 +1,6 @@
-# Hi, I'm Meika 😸
+# Hi 👋
 
-#### 🌱  &nbsp; &nbsp; A junior dev/designer looking to gain some experience in the tech industry and use my skills to make a difference
+#### 🌱  &nbsp; &nbsp; I'm Meika, A junior dev/designer with a love for the front-end looking to further my learning in tech.
 
 #### 💻  &nbsp; &nbsp; [Most recent project (MERN Stack App)](https://github.com/MeikaFreckelton/MERNAPP)
 #### 🧠  &nbsp; &nbsp; [Current side project (Mental health app)](https://github.com/MeikaFreckelton/mental-health-app)
