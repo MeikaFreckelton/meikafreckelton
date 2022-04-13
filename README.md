@@ -3,7 +3,5 @@
 #### 🖼  &nbsp; &nbsp; [My Portfolio!](https://meikafreckelton.online)
 
 ### 📫 &nbsp; &nbsp; How to reach me:
-#### 📩 &nbsp; &nbsp; [email](mailto:meikafreckelton@gmail.com)
-#### 🐦 &nbsp; &nbsp; [twitter](https://twitter.com/meikafreckelton)
-#### 📲 &nbsp; &nbsp; [linkedIn](https://www.linkedin.com/in/meika-freckelton-269741195)
+
 
